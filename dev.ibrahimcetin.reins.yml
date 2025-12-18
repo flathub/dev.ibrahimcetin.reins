@@ -51,6 +51,6 @@ modules:
       - pubspec-sources.json
       - type: git
         url: https://github.com/ibrahimcetin/reins.git
-        commit: 045d65bd74f1b04e3a914247842e2ff95b022564
+        tag: v1.3.3
     modules:
       - flutter-sdk-3.35.6.json
